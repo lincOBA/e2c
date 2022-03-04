@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncHMZCzCt230fCSZoBqA6OSo8dKhzxFKwMiXT6Js6kO+Xzmt8THpcB5Mr5t8DfC1IgDYEsWlMRoZTEj3PWYj/Q==",
+  "success": true,
+  "projectFilePath": "D:\\code\\e2c\\E2C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmlt\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\dmlt\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

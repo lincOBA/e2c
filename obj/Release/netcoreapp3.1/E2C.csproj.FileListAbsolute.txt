@@ -1,0 +1,17 @@
+D:\code\e2c\bin\Release\netcoreapp3.1\E2C.exe
+D:\code\e2c\bin\Release\netcoreapp3.1\E2C.deps.json
+D:\code\e2c\bin\Release\netcoreapp3.1\E2C.runtimeconfig.json
+D:\code\e2c\bin\Release\netcoreapp3.1\E2C.runtimeconfig.dev.json
+D:\code\e2c\bin\Release\netcoreapp3.1\E2C.dll
+D:\code\e2c\bin\Release\netcoreapp3.1\E2C.pdb
+D:\code\e2c\bin\Release\netcoreapp3.1\ExcelDataReader.dll
+D:\code\e2c\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.csproj.AssemblyReference.cache
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.AssemblyInfoInputs.cache
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.AssemblyInfo.cs
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.csproj.CoreCompileInputs.cache
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.csproj.CopyComplete
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.dll
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.pdb
+D:\code\e2c\obj\Release\netcoreapp3.1\E2C.genruntimeconfig.cache

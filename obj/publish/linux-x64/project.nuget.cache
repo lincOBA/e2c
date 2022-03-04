@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWNTyppOpOjdbmKO5hR1g3bdxu6aInNR5Qyu+CvhsuIBL9olCdzd3ndYSjp7iHfSBh8CJYge+6A66DrsQYEepQ==",
+  "success": true,
+  "projectFilePath": "D:\\code\\e2c\\E2C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmlt\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\dmlt\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\dmlt\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.22\\microsoft.netcore.app.runtime.linux-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\dmlt\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.22\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\dmlt\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.22\\microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

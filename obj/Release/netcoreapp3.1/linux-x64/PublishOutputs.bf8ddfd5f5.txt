@@ -1,0 +1,2 @@
+D:\code\e2c\bin\Release\netcoreapp3.1\publish\E2C.pdb
+D:\code\e2c\bin\Release\netcoreapp3.1\publish\E2C
